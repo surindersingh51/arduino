@@ -1,2 +1,2 @@
 
-//code to interface beaglebone using i2c 
+//code to interface beaglebone using i2c with ADXL345 accelerometer
